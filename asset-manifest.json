@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//manigandankrishnakumar.github.io/react-theming/static/css/main.6623ead2.chunk.css",
+    "main.js": "//manigandankrishnakumar.github.io/react-theming/static/js/main.d0d01882.chunk.js",
+    "main.js.map": "//manigandankrishnakumar.github.io/react-theming/static/js/main.d0d01882.chunk.js.map",
+    "runtime-main.js": "//manigandankrishnakumar.github.io/react-theming/static/js/runtime-main.f5c8c19d.js",
+    "runtime-main.js.map": "//manigandankrishnakumar.github.io/react-theming/static/js/runtime-main.f5c8c19d.js.map",
+    "static/js/2.529fec6e.chunk.js": "//manigandankrishnakumar.github.io/react-theming/static/js/2.529fec6e.chunk.js",
+    "static/js/2.529fec6e.chunk.js.map": "//manigandankrishnakumar.github.io/react-theming/static/js/2.529fec6e.chunk.js.map",
+    "static/js/3.aa9a81c8.chunk.js": "//manigandankrishnakumar.github.io/react-theming/static/js/3.aa9a81c8.chunk.js",
+    "static/js/3.aa9a81c8.chunk.js.map": "//manigandankrishnakumar.github.io/react-theming/static/js/3.aa9a81c8.chunk.js.map",
+    "index.html": "//manigandankrishnakumar.github.io/react-theming/index.html",
+    "static/css/main.6623ead2.chunk.css.map": "//manigandankrishnakumar.github.io/react-theming/static/css/main.6623ead2.chunk.css.map",
+    "static/js/2.529fec6e.chunk.js.LICENSE.txt": "//manigandankrishnakumar.github.io/react-theming/static/js/2.529fec6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5c8c19d.js",
+    "static/js/2.529fec6e.chunk.js",
+    "static/css/main.6623ead2.chunk.css",
+    "static/js/main.d0d01882.chunk.js"
+  ]
+}
