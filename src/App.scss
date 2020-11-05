@@ -1,0 +1,60 @@
+$font-color: var(--font-color);
+.App {
+  text-align: center;
+  .App-header {
+    padding: 1rem;
+    background-color: var(--main-bg-color);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    .theme-buttons {
+      border-top: 1px solid;
+      border-color: var(--border-color);
+      width: 100%;
+      display: flex;
+      justify-content: space-evenly;
+    }
+  }
+  .logo {
+    font-size: 35vmin;
+    color: var(--highlight-color);
+    animation: App-logo-spin infinite 20s linear;
+  }
+  .desc {
+    color: var(--font-color);
+  }
+  .footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: var(--highlight-color);
+    padding: 5px;
+    .link {
+      color: white;
+      .label {
+        font-weight: 700;
+        margin-right: 20px;
+        @media screen and (max-width: 400px) {
+          display: block;
+        }
+      }
+      .link-address {
+        color: white;
+      }
+    }
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

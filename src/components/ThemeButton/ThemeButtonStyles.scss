@@ -1,0 +1,12 @@
+.theme-button-container {
+  cursor: pointer;
+  .name {
+    color: var(--font-color);
+  }
+  &.selected {
+    border-bottom: 2px solid var(--highlight-color);
+    .name {
+      color: var(--highlight-color);
+    }
+  }
+}
